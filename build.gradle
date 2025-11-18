@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'org.iplacex.proyectos'
-version = 'version = '1''
+version = version '1'
 description = 'API REST proyecto Discografía'
 
 java {
